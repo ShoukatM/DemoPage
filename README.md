@@ -6,6 +6,9 @@
 [![Forum](https://img.shields.io/badge/Forum-CARLA%20Forum-blue)](https://forum.carla.org/)
 [![Discord](https://img.shields.io/badge/Discord-CARLA%20Discord-blue)](https://discord.com/invite/carla)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4V9GYjA1pE" frameborder="0" allowfullscreen></iframe>
+
+
 
 [![CARLA](https://carla.org/img/carla_avatar.png)](https://carla.org)
 
