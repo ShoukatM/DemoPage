@@ -40,6 +40,7 @@ Note:- Follow step-wise document for better understanding.
 
 ![Alt Text](https://drive.google.com/uc?export=view&id=1tTEotG_E1Kpgxs7zuP5BslOgRJ57vTWV)
 
+To view the image related to this video, [click here](https://drive.google.com/uc?export=view&id=1tTEotG_E1Kpgxs7zuP5BslOgRJ57vTWV).
 
 
 
