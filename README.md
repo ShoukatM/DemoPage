@@ -36,7 +36,7 @@ Note:- Follow step-wise document for better understanding.
 [![Forum](https://img.shields.io/badge/Forum-CARLA%20Forum-blue)](https://forum.carla.org/)
 [![Discord](https://img.shields.io/badge/Discord-CARLA%20Discord-blue)](https://discord.com/invite/carla)
 
-[Watch the video on YouTube](https://drive.google.com/uc?export=view&id=1pMdZ00wYQ8KJAE9I6a9XmVFrR-Sk8DTY)
+[Watch the video on YouTube](https://drive.google.com/file/d/1pMdZ00wYQ8KJAE9I6a9XmVFrR-Sk8DTY/view?usp=drive_link)
 
 
 ![Alt Text](https://drive.google.com/uc?export=view&id=1tTEotG_E1Kpgxs7zuP5BslOgRJ57vTWV)
