@@ -36,12 +36,13 @@ Note:- Follow step-wise document for better understanding.
 [![Forum](https://img.shields.io/badge/Forum-CARLA%20Forum-blue)](https://forum.carla.org/)
 [![Discord](https://img.shields.io/badge/Discord-CARLA%20Discord-blue)](https://discord.com/invite/carla)
 
-[Watch the video on YouTube](https://www.youtube.com/watch?v=q4V9GYjA1pE)
+[Watch the video on YouTube](https://drive.google.com/uc?export=view&id=1pMdZ00wYQ8KJAE9I6a9XmVFrR-Sk8DTY)
 
 
 ![Alt Text](https://drive.google.com/uc?export=view&id=1tTEotG_E1Kpgxs7zuP5BslOgRJ57vTWV)
 
-To view the image related to this video, [click here](https://drive.google.com/uc?export=view&id=1tTEotG_E1Kpgxs7zuP5BslOgRJ57vTWV).
+
+To view the image related to this video, [click here](https://drive.google.com/uc?export=view&id=1pMdZ00wYQ8KJAE9I6a9XmVFrR-Sk8DTY).
 
 
 
